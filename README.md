@@ -23,20 +23,16 @@ If you found this repository useful, please consider
 
 ```latex
 @inproceedings{qiu-zhang-2024-label,
-    title = "Label Confidence Weighted Learning for Target-level Sentence Simplification",
-    author = "Qiu, Xin Ying  and
-      Zhang, Jingshen",
-    editor = "Al-Onaizan, Yaser  and
-      Bansal, Mohit  and
-      Chen, Yun-Nung",
-    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    title = Label Confidence Weighted Learning for Target-level Sentence Simplification,
+    author = Qiu, Xin Ying  and Zhang, Jingshen,
+    booktitle = Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing,
     month = nov,
-    year = "2024",
-    address = "Miami, Florida, USA",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.emnlp-main.999/",
-    doi = "10.18653/v1/2024.emnlp-main.999",
-    pages = "18004--18019",
+    year = 2024,
+    address = Miami, Florida, USA,
+    publisher = Association for Computational Linguistics,
+    url = https://aclanthology.org/2024.emnlp-main.999/,
+    doi = 10.18653/v1/2024.emnlp-main.999,
+    pages = 18004--18019,
 }
 ```
 
